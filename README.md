@@ -5,8 +5,8 @@ Twenty Minutes Past was originaly called _Twenty Minutes_ and was a popular free
 
 I'm not completely porting _ALL_ of it, just the parts needed to make this look good.
 
-More detailed documentation the project's GitHub wiki
-page: https://github.com/hyperclock/20-minutes-past/wiki/Documentation.
+More detailed information in the project's GitHub wiki
+page: https://github.com/hyperclock/20-minutes-past/wiki/.
 
 Installation
 ------------
