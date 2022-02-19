@@ -1,4 +1,4 @@
-20 Minutes Past Theme
+20 Minutes Past
 =========
 
 **20 Minutes Past** was originaly called _Twenty Minutes_ and was a popular free WordPress theme. It was perfect for multiple businesses.
