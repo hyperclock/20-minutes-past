@@ -1,17 +1,12 @@
-The Name of My Project
+Twenty Minutes Past
 ======================
 
-Foo project enables you to do bar. The first paragraph of this file should be
-kept short as it will be used as the project summary on backdropcms.org. Aim for
-about 240 characters (three lines at 80 characters each).
+Twenty Minutes Past was originaly called _Twenty Minutes_ and was a popular free WordPress theme. It was perfect for multiple businesses.
 
-All lines in this file should be no more than 80 characters long for legibility,
-unless including a URL or example that requires the line not wrap. (The first
-line of this paragraph is 80 characters for reference.)
+I'm not completely porting _ALL_ of it, just the parts needed to make this look good.
 
-Detail in READMEs should be limited to the minimum required for installation and
-getting started. More detailed documentation should be moved to a GitHub wiki
-page: https://github.com/backdrop-contrib/setup/wiki/Documentation.
+More detailed documentation the project's GitHub wiki
+page: https://github.com/hyperclock/20-minutes-past/wiki/Documentation.
 
 Installation
 ------------
@@ -19,31 +14,31 @@ Installation
 - Install this theme using the official Backdrop CMS instructions at
   https://backdropcms.org/guide/themes.
 
-- Any additional steps.
+
 
 Documentation
 -------------
 
 Additional documentation is located in the Wiki:
-https://github.com/backdrop-contrib/foo-project/wiki/Documentation.
+https://github.com/hyperclock/20-minutes-past/wiki/Documentation.
 
 Issues
 ------
 
 Bugs and Feature requests should be reported in the Issue Queue:
-https://github.com/backdrop-contrib/foo-project/issues.
+https://github.com/hyperclock/20-minutes-past/issues.
 
 Current Maintainers
 -------------------
 
-- [John Smith](https://github.com/username)
-- [Jane Smith](https://github.com/username)
+- [hyperclock](https://github.com/hyperclock)
+
 
 Credits
 -------
 
-- Ported to Backdrop CMS by [Betty Boop](https://github.com/username).
-- Originally written for Drupal by [Bob Brown](https://github.com/username).
+- Ported to Backdrop CMS by [hyperclock](https://github.com/hyperclock).
+- Originally written for WordPress by [ClassicTemplate](https://classictemplate.com/).
 - Sponsored by [TechNoCorp](https://example.com).
 
 License
