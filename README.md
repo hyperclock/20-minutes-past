@@ -39,10 +39,9 @@ Credits
 
 - Ported to Backdrop CMS by [hyperclock](https://github.com/hyperclock).
 - Originally written for WordPress by [ClassicTemplate](https://classictemplate.com/).
-- Sponsored by [TechNoCorp](https://example.com).
 
 License
 -------
 
 This project is GPL v2 software.
-See the LICENSE.txt file in this directory for complete text.
+See the [LICENSE](LICENSE.txt) file in this directory for complete text.
